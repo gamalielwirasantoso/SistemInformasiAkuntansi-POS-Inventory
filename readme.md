@@ -1,6 +1,7 @@
 # SistemInformasiAkuntansi-Persediaan
 Sistem ini dirancang dengan framework laravel 5 dan PHP versi 7
 # Flowchart
+![Tugas Flow chart sia](https://github.com/gamalielwirasantoso/SistemInformasiAkuntansi-POS-Inventory/assets/152129390/4450118e-9d9c-4ec2-83a5-b50149d60e0a)
 
 # Database
 ![Screenshot (524)](https://github.com/gamalielwirasantoso/SistemInformasiAkuntansi-Persediaan/assets/152129390/445bbf4b-c646-4978-b060-306d55c366e8)

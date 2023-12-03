@@ -3,7 +3,7 @@ Sistem ini dirancang dengan framework laravel 5 dan PHP versi 7
 # Flowchart
 
 # Database
-![Screenshot (523)](https://github.com/gamalielwirasantoso/SistemInformasiAkuntansi-Persediaan/assets/152129390/76f3207c-66b6-4924-8711-e5d048fd9c39)
+![Screenshot (524)](https://github.com/gamalielwirasantoso/SistemInformasiAkuntansi-Persediaan/assets/152129390/445bbf4b-c646-4978-b060-306d55c366e8)
 
 
 # Structure
